@@ -1,4 +1,4 @@
-function countVowels() {
+function cntvowels() {
   const inputEl = document.getElementById('wordInput');
   const outputEl = document.getElementById('result');
   const text = inputEl.value.trim();
